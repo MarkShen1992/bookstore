@@ -9,12 +9,16 @@
 
 #### 算法
 
+- [Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne](https://github.com/MarkShen1992/bookstore/blob/master/algorithm/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf)
+
 
 #### 数据库
 
+- [SQL Anti-Pattern](https://github.com/MarkShen1992/bookstore/blob/master/db_design/SQL%20Antipatterns.pdf)
 
 #### 写作
 
+- [Google 技术写作](https://github.com/MarkShen1992/bookstore/tree/master/writing)
 
 #### 编程提升篇
 
