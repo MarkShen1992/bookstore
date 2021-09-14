@@ -104,3 +104,8 @@
 
 - [头马(Toastmaster)](https://www.toastmasters.org)
 - [头马教育体系一览](https://github.com/MarkShen1992/bookstore/blob/master/TM/Pathway/Pathway.pdf)
+
+
+#### [Web 开发对于新手](https://github.com/microsoft/Web-Dev-For-Beginners)
+
+#### [新手机器学习](https://github.com/microsoft/ML-For-Beginners)
