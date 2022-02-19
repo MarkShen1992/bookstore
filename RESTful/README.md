@@ -2,3 +2,4 @@
 
 [paypal/api-standard](https://github.com/paypal/api-standards)
 
+[Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/)
