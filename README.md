@@ -43,6 +43,10 @@
 #### 前端
 
 - [前端技术](https://github.com/MarkShen1992/bookstore/tree/master/frontend)
+- JS学习资源
+  - [https://zh.javascript.info/](https://zh.javascript.info/)
+  - [https://wangdoc.com/javascript/](https://wangdoc.com/javascript/)
+  - [https://wangdoc.com/es6/](https://wangdoc.com/es6/) 
 
 #### 大数据
 
