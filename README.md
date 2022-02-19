@@ -25,6 +25,7 @@
 - [阿里巴巴Java代码规范](https://github.com/MarkShen1992/bookstore/tree/master/alibaba_coding_principle)
 - [谷歌代码规范](https://google.github.io/styleguide/)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [Uber go guide](https://github.com/uber-go/guide)
 
 #### 架构方面
 
@@ -88,6 +89,7 @@
 #### 操作系统
 
 - [Linux OS](https://github.com/MarkShen1992/bookstore/tree/master/linux)
+- [The Linux man-pages project](https://www.kernel.org/doc/man-pages/)
 
 #### 运维
 
@@ -110,3 +112,7 @@
 #### [Web 开发对于新手](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 #### [新手机器学习](https://github.com/microsoft/ML-For-Beginners)
+
+#### 产品
+
+- [产品方面图书_User story mapping](https://github.com/MarkShen1992/bookstore/tree/master/product)
