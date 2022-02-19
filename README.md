@@ -37,6 +37,7 @@
 
 - [《how browsers work》](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://github.com/MarkShen1992/bookstore/tree/master/browser)
+- [【视频】How browsers work internally - Tali Garsiel - Front-Trends 2012-SD](https://www.bilibili.com/video/BV1cV411o7pW?from=search&seid=13165910243913647253&spm_id_from=333.337.0.0)
 
 #### 前端
 
