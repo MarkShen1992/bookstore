@@ -47,6 +47,8 @@
   - [https://zh.javascript.info/](https://zh.javascript.info/)
   - [https://wangdoc.com/javascript/](https://wangdoc.com/javascript/)
   - [https://wangdoc.com/es6/](https://wangdoc.com/es6/) 
+- [Micro frontends](https://micro-frontends.org/)
+- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 
 #### 大数据
 
