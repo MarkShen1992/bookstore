@@ -25,6 +25,7 @@
 - [阿里巴巴Java代码规范](https://github.com/MarkShen1992/bookstore/tree/master/alibaba_coding_principle)
 - [谷歌代码规范](https://google.github.io/styleguide/)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [Uber go guide](https://github.com/uber-go/guide)
 
 #### 架构方面
 
@@ -37,10 +38,15 @@
 
 - [《how browsers work》](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://github.com/MarkShen1992/bookstore/tree/master/browser)
+- [【视频】How browsers work internally - Tali Garsiel - Front-Trends 2012-SD](https://www.bilibili.com/video/BV1cV411o7pW?from=search&seid=13165910243913647253&spm_id_from=333.337.0.0)
 
 #### 前端
 
 - [前端技术](https://github.com/MarkShen1992/bookstore/tree/master/frontend)
+- JS学习资源
+  - [https://zh.javascript.info/](https://zh.javascript.info/)
+  - [https://wangdoc.com/javascript/](https://wangdoc.com/javascript/)
+  - [https://wangdoc.com/es6/](https://wangdoc.com/es6/) 
 
 #### 大数据
 
@@ -87,6 +93,7 @@
 #### 操作系统
 
 - [Linux OS](https://github.com/MarkShen1992/bookstore/tree/master/linux)
+- [The Linux man-pages project](https://www.kernel.org/doc/man-pages/)
 
 #### 运维
 
@@ -109,3 +116,13 @@
 #### [Web 开发对于新手](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 #### [新手机器学习](https://github.com/microsoft/ML-For-Beginners)
+
+#### 产品
+
+- [产品方面图书_User story mapping](https://github.com/MarkShen1992/bookstore/tree/master/product)
+
+#### Tools
+
+- [延伸档名](https://www.filedesc.com/zh/)
+- [在线 npz 文件查看器](https://filext.com/file-extension/NPZ)
+- [康奈尔笔记](https://github.com/MarkShen1992/bookstore/blob/master/00_learn/%E5%BA%B7%E5%A5%88%E5%B0%94%E7%AC%94%E8%AE%B0/Cornell-NoteTaking-System.pdf)
