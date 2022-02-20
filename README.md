@@ -120,3 +120,8 @@
 #### 产品
 
 - [产品方面图书_User story mapping](https://github.com/MarkShen1992/bookstore/tree/master/product)
+
+#### Tools
+
+- [延伸档名](https://www.filedesc.com/zh/)
+- [在线 npz 文件查看器](https://filext.com/file-extension/NPZ)
