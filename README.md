@@ -119,6 +119,8 @@
 
 #### [新手机器学习](https://github.com/microsoft/ML-For-Beginners)
 
+#### [3D 打印](https://www.thingiverse.com/)
+
 #### 产品
 
 - [产品方面图书_User story mapping](https://github.com/MarkShen1992/bookstore/tree/master/product)
