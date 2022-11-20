@@ -135,4 +135,8 @@
 
 - [programiz](https://www.programiz.com/)
 
+#### GitHub 的开源电子书
+
+- [GitHub 的开源电子书](https://xie.infoq.cn/article/207aab244ae44b9fc5c71a059)
+
 ......
