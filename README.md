@@ -138,5 +138,6 @@
 #### GitHub 的开源电子书
 
 - [GitHub 的开源电子书](https://xie.infoq.cn/article/207aab244ae44b9fc5c71a059)
+- [【知乎】GitHub 上有哪些值得推荐的开源电子书？](https://www.zhihu.com/question/38836382)
 
 ......
