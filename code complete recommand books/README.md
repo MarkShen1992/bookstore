@@ -14,7 +14,7 @@
 
 ### 02 用隐喻来更充分地理解软件开发
 
-
+- [The Principles of Software Engineering Management][2]
 
 ### 03 三四而后行：前期准备
 
@@ -161,3 +161,4 @@
 
 
 [1]: https://stevemcconnell.com/
+[2]: https://archive.org/details/principlesofsoft0000gilb/page/n9/mode/2up
