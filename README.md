@@ -4,6 +4,20 @@
 
 ### 目录
 
+> 免责声明
+>
+> 本仓库中的所有资料均来源于网络收集，仅供日语学习交流使用。如有任何侵权问题，请通过 issue 与我联系，我会立即删除相关内容。
+>
+> 请注意：
+>
+> - 本资料仅供个人学习交流使用
+> - 严禁用于任何商业盈利目的
+> - 严禁用于任何非法用途
+> - 使用者因使用本资料而产生的任何问题或责任由使用者自行承担
+> - 对于任何因使用本资料造成的直接或间接损失，本人不承担任何责任
+>
+> 如果您继续使用本仓库中的资料，即表示您已完全理解并同意上述声明。
+
 #### 设计模式
 - [设计模式文档](https://github.com/MarkShen1992/bookstore/blob/master/java/Design%20Pattern/23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
 - [代码大全](https://github.com/MarkShen1992/bookstore/blob/master/java/Code%20Complete%202nd%20Edition.pdf)
